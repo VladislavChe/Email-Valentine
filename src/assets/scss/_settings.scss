@@ -12,11 +12,12 @@
 //   7. Menu
 //   8. Thumbnail
 
-
 // 1. Global
 // ---------
 
-$primary-color: #2199e8;
+$maincolor: #c70039;
+$bgcolor: #f8f3eb;
+$primary-color: #000000;
 $secondary-color: #777777;
 $success-color: #3adb76;
 $warning-color: #ffae00;
@@ -31,7 +32,7 @@ $global-width: 580px;
 $global-width-small: 95%;
 $global-gutter: 16px;
 $body-background: $light-gray;
-$container-background: $white;
+$container-background: #f8f3eb;
 $global-padding: 16px;
 $global-margin: 16px;
 $global-radius: 3px;
