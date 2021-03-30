@@ -5,7 +5,7 @@
 body,
 html,
 .body {
-  background: $bgcolor !important;
+  background: transparent !important;
 }
 
 .container.header {
@@ -18,7 +18,7 @@ html,
 
 // Full Width Headers
 .header {
-  background: #8a8a8a;
+  background: red;
 }
 
 .header .columns {
@@ -56,4 +56,16 @@ table.button.google table td {
 
 .wrapper.secondary {
   background: #f3f3f3;
+}
+
+// custom
+.bgcolor {
+  background: #f8f3eb;
+}
+.transparent {
+  background: white;
+}
+
+.fz28 {
+  font-size: 28px;
 }
